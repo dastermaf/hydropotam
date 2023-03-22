@@ -5,4 +5,4 @@
 私の作品を楽しんでいただければ幸いです。
 よろしくお願いします。
 
-![Image alt](https://github.com/{ochkopotamus}/{ochkopotamus}/raw/{main}/23Busy02.png)
+![Image alt](https://github.com/ochkopotamus/ochkopotamus/raw/main/23Busy02.png)
