@@ -4,3 +4,5 @@
 日本語を勉強したりしています。
 私の作品を楽しんでいただければ幸いです。
 よろしくお願いします。
+
+![Image alt](https://github.com/{ochkopotamus}/{ochkopotamus}/raw/{main}/{path}/image.png)
